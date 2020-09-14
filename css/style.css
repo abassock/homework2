@@ -25,15 +25,15 @@ div{
     padding:25px;
     min-height:150px;
 }
-#red div{
+#red{
     background-color:#FF0200; 
     text-align:right;
 }
-#blue div{
+#blue{
     background-color:#1C01FF;
     text-align:left;
 }
-#yellow div{
+#yellow{
     background-color:#FEFF04;
     text-align:right;
     color: #000000;
@@ -44,11 +44,11 @@ Figure out how to do only the header 2 drop shadow
 #yellow h2{
     text-shadow: #c7e2c7;
 }
-#green div{
+#green{
     background-color:#018000;
     text-align:left;
 }
-footer{
+footer p {
     text-align:right;
     padding-top:0px;
     padding-right:10px;
